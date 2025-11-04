@@ -5,6 +5,9 @@ examples/example_projects/
 workspace/
 projects/
 my_projects/
+working/
+scripts/
+ras_agent/
 
 # Ignore FEMA BLE Models
 examples/FEMA_BLE_Models/
@@ -52,3 +55,9 @@ venv/
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
+memory-bank/activeContext.md
+memory-bank/productContext.md
+memory-bank/progress.md
+memory-bank/projectbrief.md
+memory-bank/systemPatterns.md
+memory-bank/techContext.md
